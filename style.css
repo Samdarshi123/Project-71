@@ -1,0 +1,27 @@
+marqueeStyle{
+    font-size: 100px;
+}
+body{
+    text-align: center;
+}
+.ibox{
+    width: 600px;
+}
+#map{
+    width: 100%;
+}
+.contact iframe{
+    width: 100%;
+}
+#con{
+    font-size:x-large;
+}
+#cam{
+    font-size: x-large;
+}
+#what{
+  font-size: x-large;
+}
+#whats{
+  text-align: center;
+}
